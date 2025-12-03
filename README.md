@@ -43,14 +43,14 @@
   
   <p><b>Frameworks & Desarrollo</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,angular,fastapi,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,angular,fastapi,tailwind,nestjs&theme=dark" />
   </a>
 
   <br/><br/>
   
   <p><b>Bases de Datos & Herramientas</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres,firebase,git,github,vscode,linux,kali,docker,metasploit,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres,firebase,git,github,vscode,linux,kali,docker,azure,latex,idea&theme=dark" />
   </a>
 </div>
 
