@@ -9,7 +9,7 @@
   <a href="mailto:raulparedes20031221@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-   <a href="/docs/curriculum.pdf">
+   <a href="[/docs/curriculum.pdf](https://wadepar6.github.io/docs/Kenneth-Paredes-CV-Español.pdf)">
     <img src="https://img.shields.io/badge/CV-Descargar_PDF-2ea44f?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
   </a>
 
@@ -25,9 +25,7 @@
 <div align="center">
   <h2>🌟 Sobre Mí</h2>
   <p align="justify" style="max-width: 800px; display: inline-block;">
-    Soy un desarrollador de software apasionado por crear soluciones que impacten vidas. Mi enfoque va más allá del código: <b>me encanta enseñar</b>. Disfruto compartiendo conocimientos de lógica y programación con estudiantes de todos los niveles. 
-    <br/><br/>
-    Actualmente, estoy finalizando mi carrera en la <b>Universidad Técnica de Ambato</b> y liderando proyectos reales como sistemas de gestión clínica y plataformas turísticas. Busco oportunidades donde pueda combinar mi experiencia técnica en proyectos reales con mi vocación como educador.
+    Desarrollador de software enfocado en la creación de soluciones digitales robustas y escalables. Mi prioridad es la programación, la arquitectura de sistemas y la calidad del código. Complemento mi perfil técnico con una sólida capacidad para la enseñanza y la comunicación, lo que me permite no solo desarrollar software eficiente, sino también facilitar la transferencia de conocimiento y el mentoring dentro de equipos de desarrollo. Busco desafíos técnicos donde pueda aplicar mi experiencia Full Stack para construir productos de alto impacto. 
   </p>
 </div>
 
@@ -45,14 +43,14 @@
   
   <p><b>Frameworks & Desarrollo</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,bootstrap,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,angular,fastapi,tailwind&theme=dark" />
   </a>
 
   <br/><br/>
   
   <p><b>Bases de Datos & Herramientas</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode,linux,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres,firebase,git,github,vscode,linux,kali,docker,metasploit,idea&theme=dark" />
   </a>
 </div>
 
@@ -103,7 +101,7 @@
   <br/>
   <i>"Vivimos dos veces: la primera ignorando que todo termina, <br/>la segunda sabiendo que cada instante es irrepetible."</i>
   <br/><br/>
-  <i>"No son las tormentas las que revelan quién eres, <br/>sino cómo cultivas tu jardín cuando nadie mira."</i>
+  <i>"La verdadera maestría no está en dominar el mundo, sino en comprender que nunca lo harás."</i>
 </div>
 
 <br/>
@@ -113,18 +111,3 @@
   <p>Hecho con ❤️ en Ambato, Ecuador</p>
   <img src="https://komarev.com/ghpvc/?username=WADEPAR6&label=Visitas+al+Perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 </div>
-
-<!--
-**WADEPAR6/WADEPAR6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
